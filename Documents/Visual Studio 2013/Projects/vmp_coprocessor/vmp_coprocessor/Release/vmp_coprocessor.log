@@ -1,0 +1,19 @@
+﻿  bytecode_ir.cpp
+  compiler_module.cpp
+  co_processor.cpp
+  peephole_functions.cpp
+  stdafx.cpp
+  vmp_coprocessor.cpp
+vmp_coprocessor.cpp(152): warning C4804: '~': unsafe use of type 'bool' in operation
+vmp_coprocessor.cpp(152): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+vmp_coprocessor.cpp(161): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+vmp_coprocessor.cpp(169): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+vmp_coprocessor.cpp(177): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+  Generating code
+  All 358 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  vmp_coprocessor.vcxproj -> C:\Users\Hachno\Documents\Visual Studio 2013\Projects\vmp_coprocessor\Release\vmp_coprocessor.exe
+  vmp_coprocessor.vcxproj -> C:\Users\Hachno\Documents\Visual Studio 2013\Projects\vmp_coprocessor\Release\vmp_coprocessor.pdb (Full PDB)
